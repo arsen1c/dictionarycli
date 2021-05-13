@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "CommandLine Dictionary",
   "main": "app.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
+  "keywords": ["dictionary", "nodejs"],
+  "author": "Arsen1c",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1"
