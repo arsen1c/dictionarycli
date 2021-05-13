@@ -1,0 +1,16 @@
+{
+  "name": "dictionarycli",
+  "version": "1.0.0",
+  "description": "CommandLine Dictionary",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "bin": {
+    "dictionary": "./dictionarycli.js"
+  }
+}
